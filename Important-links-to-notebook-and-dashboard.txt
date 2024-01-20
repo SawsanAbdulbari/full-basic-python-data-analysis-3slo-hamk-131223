@@ -1,0 +1,5 @@
+NoteBook Link colab:https://colab.research.google.com/drive/1ES-rVajM1LBeJ1EkVMQZEr4LA74ejWl7?usp=sharing 
+
+Dashboard using Streamlit: https://shopping-dashboard.streamlit.app/
+
+Dashboard repo: https://github.com/SawsanAbdulbari/Shopping_Dashboard
